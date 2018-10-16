@@ -1,4 +1,4 @@
-# Likelihood-free inference, effectively.
+# Mining gold from implicit models to improve likelihood-free inference
 
 Online version at https://glouppe.github.io/talk-lfi-effectively/index.html?p=talk.md.
 
