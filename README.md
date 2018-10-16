@@ -1,6 +1,6 @@
 # Mining gold from implicit models to improve likelihood-free inference
 
-Online version at https://glouppe.github.io/talk-lfi-effectively/index.html?p=talk.md.
+Online version at https://glouppe.github.io/talk-mining-gold-atlas-ml.
 
 This talk is a summary of the following papers:
 - Brehmer, J., Louppe, G., Pavez, J., & Cranmer, K. (2018). Mining gold from implicit models to improve likelihood-free inference. arXiv preprint arXiv:1805.12244.
