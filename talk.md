@@ -382,7 +382,7 @@ assume 36 observed events and the SM to be true.
 - Brehmer, J., Cranmer, K., Louppe, G., & Pavez, J. (2018). Constraining Effective Field Theories with Machine Learning. arXiv preprint arXiv:1805.00013.
 - Brehmer, J., Cranmer, K., Louppe, G., & Pavez, J. (2018). A Guide to Constraining Effective Field Theories with Machine Learning. arXiv preprint arXiv:1805.00020.
 - Cranmer, K., Pavez, J., & Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers. arXiv preprint arXiv:1506.02169.
-- Cranmer, K. (2018). Learning the likelihood function: moving from classification to inference. [[Indico](https://indico.cern.ch/event/737584/#2-learning-the-likelihood-func)]
+- Cranmer, K. (2018). Learning the likelihood function: moving from classification to inference. [[Indico](https://indico.cern.ch/event/737584/#2-learning-the-likelihood-func)] 
 
 ---
 
